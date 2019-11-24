@@ -5,3 +5,6 @@ The programe takes a file, which contains the informations of the cards in each 
 
 Each card is represented as the format "(suit)(value)", for example 's1' is the ACE of SPADES.
 Note that for suits, 's' means SPADE, 'h' means HEART, 'd' means DIAMONDS, 'c' means CLUB and '?' means unknown; for values, '0' means 10, 'j' means JACK, 'q' means QUEEN and 'k' means KING.
+
+### Example
+![example](https://github.com/Beeno5920/PokerWinRate/blob/master/example.png)
